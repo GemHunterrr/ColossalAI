@@ -36,3 +36,5 @@ The Colossal-AI project aims to provide a wide array of parallelism techniques f
 - S. Rajbhandari, O. Ruwase, J. Rasley, S. Smith, and Y. He, ‘ZeRO-Infinity: Breaking the GPU Memory Wall for Extreme Scale Deep Learning’. in Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis, St. Louis, Missouri, 2021.
 
 - L. Zheng et al., ‘Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning’, in 16th USENIX Symposium on Operating Systems Design and Implementation (OSDI 22), 2022, pp. 559–578.
+
+hakuna
